@@ -4,3 +4,13 @@ PRODUCT_NAME := b256
 PRODUCT_DEVICE := b256
 TARGET_VENDOR := borqs
 PRODUCT_CHARACTERISTICS := phone
+
+PRODUCT_PACKAGES += \
+            BorqsCamera \
+            BorqsFileExplorer \
+            BorqsFMRadio \
+            BorqsGallery \
+            BorqsMusic \
+            BorqsSoundRecorder \
+            Exif \
+            Gif
