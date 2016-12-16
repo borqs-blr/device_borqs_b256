@@ -1,5 +1,7 @@
 $(call inherit-product, device/qcom/msm8909_512/msm8909_512.mk)
 
+include device/borqs/b256/XT9IME/XT9IME.mk
+
 PRODUCT_NAME := b256
 PRODUCT_DEVICE := b256
 TARGET_VENDOR := borqs
@@ -13,4 +15,7 @@ PRODUCT_PACKAGES += \
             BorqsMusic \
             BorqsSoundRecorder \
             Exif \
-            Gif
+            Gif \
+            EAService \
+            FeaturePhoneLauncher \
+            FeatureQuickSetting
