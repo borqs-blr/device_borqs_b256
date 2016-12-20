@@ -17,7 +17,9 @@ PRODUCT_PACKAGES += \
             Gif \
             EAService \
             FeaturePhoneLauncher \
-            FeatureQuickSetting
+            FeatureQuickSetting \
+            NTCalculator \
+            NTDeskClock \
 
 
 PRODUCT_PACKAGES += \
