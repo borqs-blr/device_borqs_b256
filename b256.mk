@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
             FeatureQuickSetting \
             NTCalculator \
             NTDeskClock \
+            NTSettings \
 
 
 PRODUCT_PACKAGES += \
