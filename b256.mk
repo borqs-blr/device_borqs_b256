@@ -7,12 +7,12 @@ TARGET_VENDOR := borqs
 PRODUCT_CHARACTERISTICS := phone
 
 PRODUCT_PACKAGES += \
-            BorqsCamera \
-            BorqsFileExplorer \
-            BorqsFMRadio \
-            BorqsGallery \
-            BorqsMusic \
-            BorqsSoundRecorder \
+            NTCamera \
+            NTFileExplorer \
+            NTFMRadio \
+            NTGallery \
+            NTMusic \
+            NTSoundRecorder \
             Exif \
             Gif \
             EAService \
