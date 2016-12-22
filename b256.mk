@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
             NTCalculator \
             NTDeskClock \
             NTSettings \
+            NTCalendar
 
 
 PRODUCT_PACKAGES += \
